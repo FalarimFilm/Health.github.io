@@ -1,0 +1,22 @@
+.header {
+    color:#355C7D;
+    padding:10px 10px 10px 10px;
+    display: block;
+    margin: 0 auto 0 auto;
+    background-color:#ABCFD1;
+    background-repeat: repeat-x;
+    text-align:center;
+    }
+    body{
+        background-color:#F6EEE0;
+    }
+    .index h2,h3{
+        color:#355C7D;
+    }
+    .Num{
+        color:#355C7D;
+    }
+    .board{
+        max-width: 420px;
+        border: solid 4px #FCB677 ;
+    }
